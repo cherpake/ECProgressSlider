@@ -1,8 +1,7 @@
 ECProgressSlider
 ================
 
-UISlider with color coded progress (like in MPMoviePlayerViewController)
-Allowing to show progresses, for example: buffered + played music/video.
+UISlider with color coded progress (like in MPMoviePlayerViewController). Allowing to show 2 progresses, for example: buffered + played music/video.
 
 MIT License
 ===========
